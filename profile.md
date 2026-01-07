@@ -3,7 +3,8 @@
 
 ### 📖 Blog
 배운 내용과 기록하고 싶은 내용을 작성하는 velog과 tistory 입니다
-tistory로 이전 중에 있습니다.
+
++) velog에 있는 내용 tistory로 이전 중에 있습니다.
 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=chaeyuuu)](https://velog.io/@chae_yu/posts)
@@ -15,7 +16,7 @@ tistory로 이전 중에 있습니다.
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springbootg&logoColor=white"> 
- <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+ <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
  
